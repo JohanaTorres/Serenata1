@@ -1,0 +1,16 @@
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\serenata.deps.json
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\serenata.runtimeconfig.json
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\serenata.runtimeconfig.dev.json
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\serenata.dll
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\serenata.pdb
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\obj\Debug\netcoreapp2.1\serenata.csprojAssemblyReference.cache
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\obj\Debug\netcoreapp2.1\serenata.csproj.CoreCompileInputs.cache
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\obj\Debug\netcoreapp2.1\serenata.AssemblyInfoInputs.cache
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\obj\Debug\netcoreapp2.1\serenata.AssemblyInfo.cs
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\obj\Debug\netcoreapp2.1\serenata.dll
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\obj\Debug\netcoreapp2.1\serenata.pdb
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\BE.dll
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\BE.pdb
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\obj\Debug\netcoreapp2.1\serenata.csproj.CopyComplete
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\business.dll
+C:\Users\AZALY\Documents\Especializacion\informatica\serenata\serenata\bin\Debug\netcoreapp2.1\business.pdb
